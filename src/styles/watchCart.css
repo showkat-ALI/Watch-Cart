@@ -1,0 +1,27 @@
+input[value="purple"]:checked + span {
+  border-color: #816bff;
+  border-width: 2px;
+  padding: 2px;
+  box-shadow: 0 0 0 4px rgba(129, 107, 255, 0.5);
+}
+
+input[value="cyan"]:checked + span {
+  border-color: #1fcec9;
+  border-width: 2px;
+  padding: 2px;
+  box-shadow: 0 0 0 4px rgba(31, 206, 201, 0.5);
+}
+
+input[value="blue"]:checked + span {
+  border-color: #4b97d3;
+  border-width: 2px;
+  padding: 2px;
+  box-shadow: 0 0 0 4px rgba(75, 151, 211, 0.5);
+}
+
+input[value="black"]:checked + span {
+  border-color: black;
+  border-width: 2px;
+  padding: 2px;
+  box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.5);
+}

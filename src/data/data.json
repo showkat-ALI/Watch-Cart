@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "./Resource/purple.jfif",
+    "name": "Classy Modern Smart watch",
+    "prizing": [
+      { "size": "XXS", "price": 100 },
+      { "size": "XS", "price": 200 },
+      { "size": "S", "price": 300 },
+      { "size": "M", "price": 400 }
+    ],
+    "rating": 4,
+    "type": "watch",
+    "modelNumber": "NXd112455",
+    "description": "1 ATM Water Resistant, 1 Year Warranty on Watch Movement, 1 Year Warranty for Battery, 6 Months Warranty on Strap Against Any Manufacturing Defects from the Date of Purchase",
+    "color": "purple"
+  },
+  {
+    "id": 2,
+    "image": "./Resource/cyan.jfif",
+    "name": "Supar Classy Modern Smart watch",
+    "prizing": [
+      { "size": "XXS", "price": 100 },
+      { "size": "XS", "price": 200 },
+      { "size": "S", "price": 300 },
+      { "size": "M", "price": 400 }
+    ],
+    "rating": 5,
+    "type": "watch",
+    "modelNumber": "NXd112455",
+    "description": "2 ATM Water Resistant, 1 Year Warranty on Watch Movement, 1 Year Warranty for Battery, 6 Months Warranty on Strap Against Any Manufacturing Defects from the Date of Purchase.",
+    "color": "cyan"
+  },
+  {
+    "id": 3,
+    "image": "./Resource/blue.jfif",
+    "name": "Ultra Classy Modern Smart watch",
+    "prizing": [
+      { "size": "XXS", "price": 100 },
+      { "size": "XS", "price": 200 },
+      { "size": "S", "price": 300 },
+      { "size": "M", "price": 400 }
+    ],
+    "rating": 3,
+    "type": "watch",
+    "modelNumber": "NXd112455",
+    "description": "3 ATM Water Resistant, 1 Year Warranty on Watch Movement, 1 Year Warranty for Battery, 6 Months Warranty on Strap Against Any Manufacturing Defects from the Date of Purchase, Battery Type: CR2032.",
+    "color": "blue"
+  },
+  {
+    "id": 4,
+    "image": "./Resource/black.jfif",
+    "name": "Western Modern Smart watch",
+    "prizing": [
+      { "size": "XXS", "price": 100 },
+      { "size": "XS", "price": 200 },
+      { "size": "S", "price": 300 },
+      { "size": "M", "price": 400 }
+    ],
+    "rating": 3,
+    "type": "watch",
+    "modelNumber": "NXd112455",
+    "description": "3 ATM Water Resistant, 1 Year Warranty on Watch Movement, 1 Year Warranty for Battery, 6 Months Warranty on Strap Against Any Manufacturing Defects from the Date of Purchase, Battery Type: CR2032.",
+    "color": "black"
+  }
+]
